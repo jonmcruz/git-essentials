@@ -1,5 +1,5 @@
 # Git Essentials / Git for Everybody
 
-> This is a course to teach you how to use everyday Git.
+> Edited to say something else on this line. (Main branch)
 
 Course created by Jonathan Cruz
